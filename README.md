@@ -5,3 +5,6 @@ STORY PUBLIC LINK-https://public.tableau.com/views/startupdashboard07/Story3?:la
 
 
 DASHBOARD PUBLIC LINK-https://public.tableau.com/views/startupdashboard07/Story3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+video Demonstration Link: https://1drv.ms/v/s!AvZJ3Yoo1sgzkSOaW2dBOatB9YwO?e=6TeXlO
